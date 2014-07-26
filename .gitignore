@@ -14,3 +14,6 @@ xcuserdata
 profile
 DerivedData
 dsa_priv.pem
+
+# idea noise
+.idea/*
